@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-23T15:14:41 CLST" name="Default suite" finished-at="2020-12-23T15:15:25 CLST" duration-ms="43566">
+    <groups>
+    </groups>
+    <test started-at="2020-12-23T15:14:41 CLST" name="Default test" finished-at="2020-12-23T15:15:25 CLST" duration-ms="43566">
+      <class name="SacTest.testCategoriasSubcategorias">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:SacTest.testCategoriasSubcategorias@4e268090]" started-at="2020-12-23T15:14:41 CLST" name="beforeClass" finished-at="2020-12-23T15:14:54 CLST" duration-ms="12491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="Test_1_subMenuDash()[pri:0, instance:SacTest.testCategoriasSubcategorias@4e268090]" started-at="2020-12-23T15:14:54 CLST" name="Test_1_subMenuDash" finished-at="2020-12-23T15:14:58 CLST" duration-ms="4517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_1_subMenuDash -->
+        <test-method signature="Test_2_opcionesSubcategorias()[pri:0, instance:SacTest.testCategoriasSubcategorias@4e268090]" started-at="2020-12-23T15:14:58 CLST" name="Test_2_opcionesSubcategorias" finished-at="2020-12-23T15:15:05 CLST" duration-ms="6879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_2_opcionesSubcategorias -->
+        <test-method signature="Test_3_filtroDia()[pri:0, instance:SacTest.testCategoriasSubcategorias@4e268090]" started-at="2020-12-23T15:15:05 CLST" name="Test_3_filtroDia" finished-at="2020-12-23T15:15:11 CLST" duration-ms="6179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_3_filtroDia -->
+        <test-method signature="Test_4_filtroMes()[pri:0, instance:SacTest.testCategoriasSubcategorias@4e268090]" started-at="2020-12-23T15:15:11 CLST" name="Test_4_filtroMes" finished-at="2020-12-23T15:15:14 CLST" duration-ms="3208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_4_filtroMes -->
+        <test-method signature="Test_5_filtroSemana()[pri:0, instance:SacTest.testCategoriasSubcategorias@4e268090]" started-at="2020-12-23T15:15:14 CLST" name="Test_5_filtroSemana" finished-at="2020-12-23T15:15:25 CLST" duration-ms="10161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_5_filtroSemana -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:SacTest.testCategoriasSubcategorias@4e268090]" started-at="2020-12-23T15:15:25 CLST" name="afterClass" finished-at="2020-12-23T15:15:25 CLST" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- SacTest.testCategoriasSubcategorias -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
